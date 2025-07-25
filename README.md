@@ -12,7 +12,6 @@ SunTool作为全网领先的一键发币工具，彻底终结代币开发的技�
 
 **交流群**: https://t.me/wousdt8
 
-![bananatool一键发币](./image/banana_home.png)
 
 ## **代币模板/机制** <a href="#dai-bi-mu-ban-ji-zhi" id="dai-bi-mu-ban-ji-zhi"></a>
 
@@ -21,10 +20,10 @@ Solana市值管理机器人请参考Solana板块
 
 ### **服务费用** <a href="#fu-wu-fei-yong" id="fu-wu-fei-yong"></a>
 
-[BananaTool收费标准](https://docs.bananatool.com/fee)：全网最低费用发币平台
+[SunTool收费标准](https://help.suntool.cc)：全网最低费用发币平台
 
 ### **社交媒体** <a href="#she-jiao-mei-ti" id="she-jiao-mei-ti"></a>
 
-* Telegram：[https://t.me/BananaTools](https://t.me/BananaTools)
-* Twitter：[https://x.com/Banana\_Tool](https://x.com/Banana_Tool)
-* Youtuble: [https://www.youtube.com/@BananaTools/videos](https://www.youtube.com/@BananaTools/videos)
+* Telegram：[https://t.me/BananaTools](https://t.me/wousdt)
+* Twitter：[https://x.com/Banana\_Tool](https://x.com/wousdt)
+* Youtuble: [https://www.youtube.com/@BananaTools/videos](https://www.youtube.com/wousdt)

@@ -1,4 +1,4 @@
-# SunTool一键发币助手
+# SunTool一键发币助手/区块链合约开发
 SunTool作为全网领先的一键发币工具，彻底终结代币开发的技术壁垒！用户无需任何代码基础，1分钟即可在BSC、Solana、SUI、ETH、Base、Arbitrum、等多条主流公链上完成代币部署。
 
 **官网**：https://suntool.cc/
@@ -12,12 +12,12 @@ SunTool作为全网领先的一键发币工具，彻底终结代币开发的技�
 **交流群**: https://t.me/wousdt8
 
 
-## **代币模板/机制** <a href="#dai-bi-mu-ban-ji-zhi" id="dai-bi-mu-ban-ji-zhi"></a>
+## **代币模板/机制** 
 
 
 Solana市值管理机器人请参考Solana板块
 
-### **服务费用** <a href="#fu-wu-fei-yong" id="fu-wu-fei-yong"></a>
+### **服务费用** 
 
 [SunTool帮助文档](https://help.suntool.cc)：全网最低费用发币平台
 

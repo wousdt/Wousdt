@@ -24,6 +24,6 @@ Solana市值管理机器人请参考Solana板块
 
 ### **社交媒体** <a href="#she-jiao-mei-ti" id="she-jiao-mei-ti"></a>
 
-* Telegram：[https://t.me/BananaTools](https://t.me/wousdt)
-* Twitter：[https://x.com/Banana\_Tool](https://x.com/wousdt)
-* Youtuble: [https://www.youtube.com/@BananaTools/videos](https://www.youtube.com/wousdt)
+* Telegram：[https://t.me/wousdt](https://t.me/wousdt8)
+* Twitter：[https://x.com/wousdt\_Tool](https://x.com/wousdt)
+* Youtuble: [https://www.youtube.com/@wousdt](https://www.youtube.com/wousdt)

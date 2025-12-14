@@ -14,4 +14,4 @@
 
 * Telegram：[https://t.me/wousdt](https://t.me/wousdt8)
 * Twitter：[https://x.com/wousdt](https://x.com/wousdt)
-* Youtuble: [https://www.youtube.com/@wousdt](https://www.youtube.com/@wousdt1)
+* Youtuble: [https://www.youtube.com/@wousdt1](https://www.youtube.com/@wousdt1)
